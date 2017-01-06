@@ -1,0 +1,49 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-01-06 11:14+0000\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: admin/class-dummy-data-generator-admin.php:62
+msgid "Data generator"
+msgstr ""
+
+#: admin/class-dummy-data-generator-admin.php:74
+msgid "Generation successfully finished."
+msgstr ""
+
+#: admin/class-dummy-data-generator-admin.php:77
+msgid "An error occurred during the generation."
+msgstr ""
+
+#. Name of the plugin
+#: admin/views/dummy-data-generator-admin-display.php:2
+msgid "Dummy Data Generator"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Use <a href=\"https://github.com/fzaninotto/Faker\">Faker</a> PHP library to "
+"generate dummy data. Support <a href=\"https://www.advancedcustomfields."
+"com/\">ACF</a> plugin."
+msgstr ""
+
+msgid "1. Choose a post type"
+msgstr ""
+
+msgid "2. Enter the desired quantity"
+msgstr ""
+
+msgid "3. Click the button and let the magic happens"
+msgstr ""
+
+msgid ""
+"The plugin will create the desired quantity of selected post type. If some "
+"ACFs are linked to the post type, it will fill all the fields."
+msgstr ""
+
+msgid "Generate !"
+msgstr ""

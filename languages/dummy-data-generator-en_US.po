@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-01-06 11:14+0000\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"PO-Revision-Date: 2017-01-06 11:15+0000\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Project-Id-Version: Dummy Data Generator\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: epicadmin <accounts@epic.net>\n"
+"Language-Team: English (United States)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: admin/class-dummy-data-generator-admin.php:62
+msgid "Data generator"
+msgstr "Data generator"
+
+#: admin/class-dummy-data-generator-admin.php:74
+msgid "Generation successfully finished."
+msgstr "Generation successfully finished."
+
+#: admin/class-dummy-data-generator-admin.php:77
+msgid "An error occurred during the generation."
+msgstr "An error occurred during the generation."
+
+#. Name of the plugin
+#: admin/views/dummy-data-generator-admin-display.php:2
+msgid "Dummy Data Generator"
+msgstr "Dummy Data Generator"
+
+#. Description of the plugin
+msgid ""
+"Use <a href=\"https://github.com/fzaninotto/Faker\">Faker</a> PHP library to "
+"generate dummy data. Support <a href=\"https://www.advancedcustomfields."
+"com/\">ACF</a> plugin."
+msgstr ""
+"Use <a href=\"https://github.com/fzaninotto/Faker\">Faker</a> PHP library to "
+"generate dummy data. Support <a href=\"https://www.advancedcustomfields."
+"com/\">ACF</a> plugin."
+
+msgid "1. Choose a post type"
+msgstr "1. Choose a post type"
+
+msgid "2. Enter the desired quantity"
+msgstr "2. Enter the desired quantity"
+
+msgid "3. Click the button and let the magic happens"
+msgstr "3. Click the button and let the magic happens"
+
+msgid ""
+"The plugin will create the desired quantity of selected post type. If some "
+"ACFs are linked to the post type, it will fill all the fields."
+msgstr ""
+"The plugin will create the desired quantity of selected post type. If some "
+"ACFs are linked to the post type, it will fill all the fields."
+
+msgid "Generate !"
+msgstr "Generate !"
