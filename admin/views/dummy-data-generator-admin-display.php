@@ -31,7 +31,7 @@
         </tr>
         <tr>
           <th scope="row"><label for="submit"><?php _e('3. Click the button and let the magic happens'); ?></label></th>
-          <td><input type="submit" name="submit" id="submit" class="button button-primary" value="<?php e_('Generate !'); ?>"></td>
+          <td><input type="submit" name="submit" id="submit" class="button button-primary" value="<?php _e('Generate !'); ?>"></td>
         </tr>
       </tbody>
     </table>
